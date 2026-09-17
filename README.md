@@ -14,3 +14,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<picture>
+  <source
+    srcset="https://github-stats-extended.vercel.app/api?username=lucapl&theme=dark_github"
+    media="(prefers-color-scheme: dark)"
+  />
+  <img src="https://github-stats-extended.vercel.app/api?username=lucapl&theme=light_github" alt="lucapl's GitHub stats" />
+</picture>
+
+<picture>
+  <source
+    srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=lucapl&langs_count=4&theme=dark_github&hide=jupyter%20notebook"
+    media="(prefers-color-scheme: dark)"
+  />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=lucapl&langs_count=4&theme=light_github&hide=jupyter%20notebook" alt="Top Langs" />
+</picture>
+
+
